@@ -38,7 +38,7 @@ QMUI iOS 是一个致力于提高项目 UI 开发效率的解决方案，其设�
 ## 使用方法
 
 ```
-pod 'QMUIKit'
+pod 'QMUIKIit', :git => 'https://github.com/Young1006/QMUI_iOS.git', :branch => 'fix-bug'
 ```
 
 ## 代码示例
